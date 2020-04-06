@@ -1,2 +1,0 @@
-# world-grid
-local endpoints
